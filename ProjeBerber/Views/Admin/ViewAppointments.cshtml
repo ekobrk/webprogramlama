@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ProjeBerber.Models.Appointment>
+@{
+    ViewData["Title"] = "Randevuları Görüntüle";
+}
+
+<h2 class="text-light">Randevuları Görüntüle</h2>
+
+<table class="table table-bordered text-light">
+    <thead>
+        <tr>
+            <th>Kullanıcı</th>
+            <th>Email</th>
+            <th>Berber</th>
+            <th>Hizmet</th>
+            <th>Tarih/Saat</th>
+            <th>Onay</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ap in Model)
+        {
+            <tr>
+                <td>@ap.User.AdSoyad</td>
+                <td>@ap.User.Email</td>
+                <td>@ap.Barber.FirstName @ap.Barber.LastName</td>
+                <td>@ap.Service.Name (@ap.Service.DurationMinutes dk - @ap.Service.Price TL)</td>
+                <td>@ap.AppointmentDate</td>
+                <td>
+                    @if (ap.IsApproved)
+                    {
+                        <span style="color:lawngreen">Onaylı</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Bekliyor</span>
+                    }
+                </td>
+                <td>
+                    @if (!ap.IsApproved)
+                    {
+                        <a asp-action="ApproveAppointment" asp-route-id="@ap.Id" class="btn btn-sm btn-success">Onayla</a>
+                    }
+                    <a asp-action="DeleteAppointment" asp-route-id="@ap.Id" class="btn btn-sm btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

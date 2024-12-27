@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProjeBerber.Models.Barber>
+
+@{
+    ViewData["Title"] = "Berber Yönetimi";
+}
+
+<h2 class="text-light">Berber Yönetimi</h2>
+
+<table class="table table-bordered text-light">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Çalışma Saatleri</th>
+            <th>Uzmanlık Alanları</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var barber in Model)
+        {
+            <tr>
+                <td>@barber.FirstName</td>
+                <td>@barber.LastName</td>
+                <td>
+                    @barber.StartTime.ToString(@"hh\:mm") -
+                    @barber.EndTime.ToString(@"hh\:mm")
+                </td>
+                <td>@barber.Specialties</td>
+                <td>
+                    <form asp-action="DeleteBarber" method="post">
+                        <input type="hidden" name="id" value="@barber.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddBarber" class="btn btn-primary">Yeni Berber Ekle</a>

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProjeBerber.Models.Service>
+@{
+    ViewData["Title"] = "Hizmet Yönetimi";
+}
+
+<h2 class="text-light">Hizmet Yönetimi</h2>
+
+<table class="table table-striped text-light">
+    <thead>
+        <tr>
+            <th>Hizmet Adı</th>
+            <th>Süre (dk)</th>
+            <th>Ücret</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in Model)
+        {
+            <tr style="color:white">
+                <td>@service.Name</td>
+                <td>@service.DurationMinutes</td>
+                <td>@service.Price</td>
+                <td>
+                    <form asp-action="DeleteService" method="post">
+                        <input type="hidden" name="id" value="@service.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddService" class="btn btn-primary">Yeni Hizmet Ekle</a>

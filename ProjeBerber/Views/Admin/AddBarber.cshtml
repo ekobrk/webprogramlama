@@ -1,0 +1,46 @@
+﻿@model ProjeBerber.Models.Barber
+
+@{
+    ViewData["Title"] = "Yeni Berber Ekle";
+}
+
+<h2>Yeni Berber Ekle</h2>
+
+<form asp-action="AddBarber" method="post">
+    <div class="mb-3">
+        <label for="FirstName">Ad:</label>
+        <input type="text" id="FirstName" name="FirstName"
+               class="form-control" asp-for="FirstName" required />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="LastName">Soyad:</label>
+        <input type="text" id="LastName" name="LastName"
+               class="form-control" asp-for="LastName" required />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="StartTime">Başlangıç Saati (HH:MM):</label>
+        <input type="time" id="StartTime" name="StartTime"
+               class="form-control" asp-for="StartTime" required />
+        <span asp-validation-for="StartTime" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="EndTime">Bitiş Saati (HH:MM):</label>
+        <input type="time" id="EndTime" name="EndTime"
+               class="form-control" asp-for="EndTime" required />
+        <span asp-validation-for="EndTime" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="Specialties">Uzmanlık Alanları:</label>
+        <textarea id="Specialties" name="Specialties"
+                  class="form-control" asp-for="Specialties"></textarea>
+        <span asp-validation-for="Specialties" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Ekle</button>
+</form>

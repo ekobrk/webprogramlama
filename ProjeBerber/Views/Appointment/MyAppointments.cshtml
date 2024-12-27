@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProjeBerber.Models.Appointment>
+@{
+    ViewData["Title"] = "Randevularım";
+}
+
+<h2 class="text-light">Randevularım</h2>
+
+<table class="table table-bordered text-light">
+    <thead>
+        <tr>
+            <th>Tarih</th>
+            <th>Berber</th>
+            <th>Hizmet</th>
+            <th>Onay Durumu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ap in Model)
+        {
+            <tr>
+                <td>@ap.AppointmentDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@ap.Barber.FirstName @ap.Barber.LastName</td>
+                <td>@ap.Service.Name (@ap.Service.DurationMinutes dk)</td>
+                <td>
+                    @if (ap.IsApproved)
+                    {
+                        <span style="color: lawngreen;">Onaylı</span>
+                    }
+                    else
+                    {
+                        <span class="text-warning">Bekliyor</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
