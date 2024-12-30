@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\addbarber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\addbarber.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\appointment\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\appointment\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\viewappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\viewappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\manageservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\manageservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\managebarbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\managebarbers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\admin\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\admin\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\appointment\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\appointment\\myappointments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\migrations\\20241226134421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:migrations\\20241226134421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\migrations\\20241226235137_specialtiesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:migrations\\20241226235137_specialtiesfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\migrations\\20241226234837_addspecialtiescolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:migrations\\20241226234837_addspecialtiescolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|c:\\users\\ekrem burak akkaya\\source\\repos\\projeberber\\migrations\\20241226233704_adduserrolecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7813F8A-76FD-4BA8-AC79-699B0E2438B1}|ProjeBerber.csproj|solutionrelative:migrations\\20241226233704_adduserrolecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 361,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:48:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Appointment\\Book.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\Book.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Appointment\\Book.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\Book.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:52:41.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T17:41:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddBarber.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\AddBarber.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddBarber.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\AddBarber.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddBarber.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:02:12.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:00:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:00:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T23:05:08.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:05:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:48:00.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:00:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:54:27.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:54:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:53:17.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:53:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ViewAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ViewAppointments.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ViewAppointments.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ViewAppointments.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:02:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageServices.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ManageServices.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageServices.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ManageServices.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageServices.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T15:57:09.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageBarbers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ManageBarbers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageBarbers.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\ManageBarbers.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageBarbers.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:02:21.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T15:56:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\AddService.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddService.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Admin\\AddService.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:20:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:14:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:01:18.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "Models\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:32:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Barber.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Barber.cs",
+              "RelativeDocumentMoniker": "Models\\Barber.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\Barber.cs",
+              "RelativeToolTip": "Models\\Barber.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:01:13.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyAppointments.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Appointment\\MyAppointments.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\MyAppointments.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Appointment\\MyAppointments.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\MyAppointments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:52:46.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:00:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:01:21.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T23:03:55.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T17:40:30.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T15:49:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "wwwroot\\css\\admin.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T19:02:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T17:04:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241226134421_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226134421_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226134421_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226134421_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241226134421_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:44:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:52:27.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241226235137_SpecialtiesField.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226235137_SpecialtiesField.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226235137_SpecialtiesField.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226235137_SpecialtiesField.cs",
+              "RelativeToolTip": "Migrations\\20241226235137_SpecialtiesField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:51:37.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241226234837_AddSpecialtiesColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226234837_AddSpecialtiesColumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226234837_AddSpecialtiesColumn.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226234837_AddSpecialtiesColumn.cs",
+              "RelativeToolTip": "Migrations\\20241226234837_AddSpecialtiesColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:48:37.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241226233704_AddUserRoleColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226233704_AddUserRoleColumn.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226233704_AddUserRoleColumn.cs",
+              "ToolTip": "C:\\Users\\Ekrem Burak Akkaya\\source\\repos\\ProjeBerber\\Migrations\\20241226233704_AddUserRoleColumn.cs",
+              "RelativeToolTip": "Migrations\\20241226233704_AddUserRoleColumn.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:37:04.768Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

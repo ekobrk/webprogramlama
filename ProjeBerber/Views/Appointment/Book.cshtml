@@ -11,7 +11,6 @@
     <div class="alert alert-danger">@TempData["Error"]</div>
 }
 
-<!-- Form: Book (POST) -->
 <form asp-action="Book" method="post">
     <div class="row mb-3 text-light">
         <div class="col-md-4">
@@ -20,23 +19,19 @@
         </div>
         <div class="col-md-4">
             <label asp-for="SelectedBarberId">Berber:</label>
-            <select asp-for="SelectedBarberId" asp-items="Model.BarberList"
-                    class="form-control" required>
+            <select asp-for="SelectedBarberId" asp-items="Model.BarberList" class="form-control" required>
                 <option value="">Seçiniz</option>
             </select>
         </div>
         <div class="col-md-4">
             <label asp-for="SelectedServiceId">Hizmet:</label>
-            <select asp-for="SelectedServiceId" asp-items="Model.ServiceList"
-                    class="form-control" required>
+            <select asp-for="SelectedServiceId" asp-items="Model.ServiceList" class="form-control" required>
                 <option value="">Seçiniz</option>
             </select>
         </div>
     </div>
     <button type="submit" class="btn btn-primary">Boş Slotları Göster</button>
 </form>
-
-<hr />
 
 @if (Model.AvailableSlots != null && Model.AvailableSlots.Any())
 {
@@ -46,19 +41,17 @@
         {
             <li class="list-group-item">
                 @slot.ToString("HH:mm")
-                (
                 <form asp-action="ConfirmAppointment" method="post" style="display:inline;">
                     <input type="hidden" name="chosenSlot" value="@slot" />
                     <input type="hidden" name="barberId" value="@Model.SelectedBarberId" />
                     <input type="hidden" name="serviceId" value="@Model.SelectedServiceId" />
                     <button type="submit" class="btn btn-sm btn-success">Seç</button>
                 </form>
-                )
             </li>
         }
     </ul>
 }
-else
+else if (Model.AvailableSlots != null)
 {
-    <p class="text-light">Müsait slot bulunamadı veya henüz arama yapılmadı.</p>
+    <p class="text-light">Müsait slot bulunamadı.</p>
 }
